@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ba43c34400ac9bf55f356f7f",
+  "owner": "wdykarp",
+  "repo": "page-7fa45e1bcc442ca55e950317",
+  "title": "土豆云(POTATO)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7fa45e1bcc442ca55e950317",
+      "a": "土豆云(POTATO)",
+      "b": "",
+      "entity": "土豆云(POTATO)",
+      "brand": "土豆云(POTATO)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1c35baaebad4a9dc6b88ad89d59edc9c1407f3e2cfa326095631d8d3ea5a9ae0",
+      "content": {
+        "keyword1": "土豆云(POTATO)",
+        "keyword2": "",
+        "primary_entity": "土豆云(POTATO)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "土豆云(POTATO)提供机场订阅与多端客户端指引，覆盖办公、流媒体与游戏加速，帮助你在官网完成套餐选择、订阅导入与稳定连接。",
+          "AI_DESCRIPTION": "土豆云(POTATO)提供机场订阅与多端客户端指引，覆盖办公、流媒体与游戏加速，帮助你在官网完成套餐选择、订阅导入与稳定连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F4;color:#2A1A14;font-size:16px;line-height:1.7;word-wrap:break-word;overflow-x:hidden}a{color:#C44536;text-decoration:underline}a:hover{color:#8B2E22}header,main,footer{max-width:720px;margin:0 auto;padding:16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:10px;font-size:0.95rem}nav a{text-decoration:none;color:#8B2E22;border-bottom:1px solid #F0C4B8}h1{margin:12px 0 10px;font-size:1.7rem;line-height:1.3;color:#C23B2A}h2{margin:1.6rem 0 0.7rem;font-size:1.28rem;color:#8B2E22;padding-bottom:0.35rem;border-bottom:2px solid #F0C4B8}h3{margin:1.1rem 0 0.45rem;font-size:1.05rem;color:#C44536}p,ul,ol{margin:0 0 0.85rem}ul,ol{padding-left:1.25rem}.lead{font-size:1.02rem;color:#4A3228}.card{background:#fff;border:1px solid #F0D4C8;border-radius:12px;padding:16px;margin:12px 0}.card.featured{border:2px solid #E85D4C;background:#FFF1ED}.badge{display:inline-block;background:#E85D4C;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.price{font-size:1.35rem;font-weight:700;color:#E85D4C;margin:4px 0}.annual{font-size:0.92rem;color:#5C4033}.feat{margin:8px 0 0}.step-list{list-style:decimal;padding-left:1.3rem}.step-list li{margin:0 0 10px;padding:8px 0}.client{margin:10px 0;padding:12px 14px;background:#fff;border-left:4px solid #E85D4C;border-radius:0 10px 10px 0}details{background:#fff;border:1px solid #F0D4C8;border-radius:10px;padding:10px 14px;margin:8px 0}summary{font-weight:650;color:#8B2E22;cursor:pointer}details p{margin:8px 0 4px;color:#3A241C}footer{margin-top:8px;padding-top:20px;padding-bottom:28px;border-top:1px solid #F0D4C8;color:#5C4033;font-size:0.9rem}</style><header><p>土豆云(POTATO) 官网</p><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#clients\">客户端选择</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>土豆云(POTATO) 官方网站</h1><p class=\"lead\" id=\"intro\">土豆云(POTATO)是面向跨境访问的机场订阅服务，提供可导入主流客户端的节点与加速能力。本站说明套餐差异、使用场景、导入步骤与客户端选择，方便你在官网完成订阅后稳定使用梯子网络加速。</p><section id=\"about\"><h2>品牌简介</h2><p>土豆云(POTATO)把订阅、节点与多端配置放在同一条路径上：购买后复制订阅链接，在对应系统的客户端中导入即可更新节点。服务侧重点是线路可用性、流媒体解锁与游戏向专线，而不是堆砌无法核验的宣传数字。</p><p>基础线路覆盖日常网页与通讯；旗舰与团队档位增加流量、同时在线设备与 IPLC 游戏优化，并提供更及时的工单通道。无论你使用 Clash 系、Shadowrocket 还是其他兼容订阅的加速器，流程都是「选套餐 → 取订阅 → 选客户端 → 导入连接」。</p><p>请以本页为土豆云(POTATO)官方网站入口阅读说明。客户端本体请从各系统可信来源获取，本站用锚点指引到客户端选择与操作步骤，避免混淆第三方镜像。</p></section><section id=\"plans\"><h2>套餐与订阅说明</h2><p>以下为固定档位，按月标价，按年付可降低月均成本。流量为当月极速额度，设备数为同时在线上限。下单后在账户中复制订阅，再导入你选择的客户端。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料协作</h3><p>远程会议、代码仓库、云盘与海外文档需要持续可用的出口。基础版可覆盖轻量协作；文档与会议并发较高时，旗舰版的设备数与工单优先级更合适。</p><h3>流媒体与内容站点</h3><p>观看或检索海外媒体时，关键是节点是否原生解锁而非单纯延迟。旗舰版强调全节点原生流媒体解锁；基础版适合偶尔使用的基础片源。</p><h3>游戏与实时对战</h3><p>对延迟抖动敏感的对战或下载，可走 IPLC 专线优化档位。团队版适合工作室多开与定制分流，避免把办公与娱乐流量挤在同一条拥挤线路上。</p><h3>学习与多设备切换</h3><p>手机、电脑、平板轮换使用时，先确认套餐设备上限，再在各端用同一订阅导入。不要在超过上限的终端同时常开连接，以免挤占会话。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成即可，无需在页面内填写表单。任何一步卡住，可先看下方客户端选择与 FAQ。</p><ol class=\"step-list\"><li><strong>确认需求并选择套餐。</strong> 对照流量、设备数、流媒体与游戏是否需要 IPLC。个人轻度使用选基础版；多端加流媒体与游戏选旗舰版；多人共用选团队版。</li><li><strong>完成订阅并复制链接。</strong> 在账户中找到机场订阅地址，整段复制。订阅是客户端拉节点的唯一凭证，不要发到公开群组。</li><li><strong>进入客户端选择。</strong> 按系统挑选兼容订阅的应用（见下一节）。只安装一个主力客户端，避免多个加速器同时接管系统代理。</li><li><strong>导入订阅并更新节点。</strong> 在客户端选择「从 URL 导入」或「订阅管理」，粘贴链接后更新。确认出现节点列表再进入下一步。</li><li><strong>选择节点并开启系统代理。</strong> 网页浏览可选综合延迟较低的节点；流媒体选标注解锁的入口；游戏优先 IPLC。连接后用浏览器访问目标站点验证。</li></ol><p>更换设备时重复第 3–5 步即可。流量以套餐周期重置，不必反复重装客户端。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>土豆云(POTATO)通过标准订阅对接常见加速器，不绑定单一闭源安装包。请先认准系统，再选维护活跃、支持订阅导入的客户端，然后回到操作说明完成导入。以下为选择原则，下载请使用各应用的官方发布渠道或系统商店，本页仅用锚点组织指引。</p><div class=\"client\"><h3>Windows</h3><p>优先选择可导入 Clash / Sing-Box 订阅、能开关系统代理的图形客户端。导入后检查是否开启「系统代理」或 TUN。不要同时开多个 VPN 工具，以免路由冲突。</p></div><div class=\"client\"><h3>macOS</h3><p>可选 Clash 兼容客户端或 Surge 等规则型加速器。导入订阅后允许网络扩展权限，并在菜单栏确认连接状态。若浏览器仍走直连，检查是否排除了本机回环。</p></div><div class=\"client\"><h3>Android</h3><p>使用支持订阅与分应用代理的 Clash Meta 类应用。按需开启「绕过中国大陆」以降低无关流量消耗。省电策略可能杀掉后台，连接不稳定时可锁定后台运行。</p></div><div class=\"client\"><h3>iOS 与 iPadOS</h3><p>常用 Shadowrocket、Stash 等支持订阅的客户端。从商店安装后粘贴土豆云订阅，更新节点，开启 VPN 配置描述。蜂窝与 Wi-Fi 切换后若中断，重新打开连接即可。</p></div><div class=\"client\"><h3>如何判断选对了</h3><p>客户端应能：粘贴 URL、定时更新节点、手动选节点、开关系统代理。若只能填单个服务器且无法批量更新，说明不是机场订阅客户端，请换用上一列表中的类型。</p></div><p>官方下载指引入口：<a href=\"#clients\">客户端选择</a> 与 <a href=\"#guide\">操作说明</a>。遇到导入失败，先核对订阅是否完整、客户端是否最新，再对照 FAQ。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>土豆云(POTATO)是什么？和普通 VPN 有何不同？</summary><p>土豆云(POTATO)是机场订阅服务：你得到的是可更新的节点列表，而不是单一固定服务器。通过 Clash、Shadowrocket 等客户端导入后，可按延迟、解锁能力切换线路，更适合同时需要网页、流媒体与游戏加速的用法。</p></details><details><summary>客户端应该去哪里下载？官网是否提供安装包？</summary><p>客户端请从各系统商店或该开源项目的正式发布页获取，避免来路不明的打包文件。本站作为土豆云(POTATO)官方网站，重点提供订阅说明与客户端选择标准，下载入口以本页锚点「客户端选择」为准，不在正文外链第三方镜像。</p></details><details><summary>基础版、旗舰版、团队版怎么选？</summary><p>以流量、同时在线设备和能力为准：每月约 100GB、三台设备、基础流媒体选基础版；需要 300GB、五台设备、全节点原生解锁和 IPLC 游戏优化选旗舰版；二十台设备、高带宽与定制路由选团队版。按年付对应为 ¥150、¥350、¥850。</p></details><details><summary>导入订阅后没有节点或无法连接怎么办？</summary><p>先确认链接完整、客户端已更新订阅、系统时间正确。关闭其他 VPN 或系统代理插件后重试。若仅个别节点失败，换一条同区域线路；若全部失败，按套餐工单通道反馈节点与客户端名称，便于对照日志。</p></details><details><summary>流媒体缓冲或游戏掉线如何处理？</summary><p>缓冲多与解锁类型有关，旗舰版强调全节点原生解锁，请改用对应入口而非普通中转。游戏掉线优先切 IPLC 优化节点，并避免 Wi-Fi 与蜂窝频繁切换。团队版可按业务做分流，把游戏与下载拆到不同规则。</p></details><details><summary>设备数超限或流量用尽会怎样？</summary><p>超过同时在线上限时，新设备可能挤掉旧会话，请关掉长期挂机的终端。流量用尽后极速额度不再可用，可等待周期重置或升级档位。团队共用时建议约定设备清单，避免无人值守的下载占满额度。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>土豆云(POTATO)官方网站 · 机场订阅与客户端下载说明</p><p><a href=\"#intro\">回到简介</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#faq\">常见问题</a></p><p>页面仅提供订阅使用与加速器选择说明，不含脚本、表单与外部资源。</p></footer>",
+          "hash": "62cdc624a3fdb1cdb366bf6e0cb25c526caea6bbab02ee7bc45d1d6abe22e811",
+          "seo": {
+            "title": "土豆云(POTATO)官方网站 – 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "土豆云,POTATO,土豆云机场,土豆云VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "土豆云(POTATO)提供机场订阅与多端客户端指引，覆盖办公、流媒体与游戏加速，帮助你在官网完成套餐选择、订阅导入与稳定连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vlggm.cn",
+    "host": "p-2235e526ba.vlggm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "vlggm.cn",
+      "url": "https://vlggm.cn/",
+      "label": "西数(WestData)",
+      "apex": "vlggm.cn",
+      "kind": null,
+      "identity": "bjaxeu/page-c7cbd0b93534b2ceb4365b41"
+    },
+    {
+      "host": "acmilgh.cn",
+      "url": "https://acmilgh.cn/",
+      "label": "土豆云(POTATO)",
+      "apex": "acmilgh.cn",
+      "kind": null,
+      "identity": "mfvxby/page-482f1b758063a23844c5b4a8"
+    },
+    {
+      "host": "afvdk.cn",
+      "url": "https://afvdk.cn/",
+      "label": "土豆云(POTATO)",
+      "apex": "afvdk.cn",
+      "kind": null,
+      "identity": "shvyrwg/page-db0b7391926cf8487750403c"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fe9a1b0e74db5d046d2e1084e1ade4469121212bcd55c4ad7040f11ee45acc7e",
+    "sitemap.xml": "9563ad00c0cf64bf63e263ddfb59561286061f3ddb028be9935036fe52e88240",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4c03f184d097e4bf5410d76c2c31dc03f0f69e1b0d168fb360ea75638f27519c",
+    "robots.txt": "aeb4e6a544403c6e372615d56cf8bc3e832f8b649b7a8788351572c6f410ad13",
+    "0ea6dd13b20df81df3d710687dc2da75.txt": "8de1c11dc1f79bbc40f666b6cab818bc3f7f28887159a7ccdd9cd941148cf070"
+  },
+  "revision": "bd06ba79f34daca1fcb5f001830a31943843287af08a6faee15ea9623aea3fda"
+}
